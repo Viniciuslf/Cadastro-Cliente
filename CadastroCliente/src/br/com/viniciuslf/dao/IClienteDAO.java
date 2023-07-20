@@ -4,9 +4,7 @@ import br.com.viniciuslf.domain.Cliente;
 
 import java.util.Collection;
 
-/**
- * @author rodrigo.pires
- */
+
 public interface IClienteDAO {
 
     public Boolean cadastrar(Cliente cliente);
