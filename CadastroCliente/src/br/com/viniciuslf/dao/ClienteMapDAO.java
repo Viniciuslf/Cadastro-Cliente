@@ -6,9 +6,6 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author rodrigo.pires
- */
 public class ClienteMapDAO implements IClienteDAO {
 
     private Map<Long, Cliente> map;
