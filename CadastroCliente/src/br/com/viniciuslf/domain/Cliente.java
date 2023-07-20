@@ -2,9 +2,7 @@ package br.com.viniciuslf.domain;
 
 import java.util.Objects;
 
-/**
- * @author rodrigo.pires
- */
+
 public class Cliente {
 
     private String nome;
